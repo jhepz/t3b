@@ -1,0 +1,122 @@
+fileFormatVersion: 2
+guid: 5fdde700a1ed14758a86f09efd64ef0a
+timeCreated: 1453636054
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: spritesheet_zorro_walk (1)_0
+    21300002: spritesheet_zorro_walk (1)_1
+    21300004: spritesheet_zorro_walk (1)_2
+    21300006: spritesheet_zorro_walk (1)_3
+    21300008: spritesheet_zorro_walk (1)_4
+    21300010: spritesheet_zorro_walk (1)_5
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: spritesheet_zorro_walk (1)_0
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 12
+        width: 86
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheet_zorro_walk (1)_1
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 15
+        width: 84
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheet_zorro_walk (1)_2
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 16
+        width: 74
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheet_zorro_walk (1)_3
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 19
+        width: 84
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheet_zorro_walk (1)_4
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 21
+        width: 88
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheet_zorro_walk (1)_5
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 10
+        width: 90
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
